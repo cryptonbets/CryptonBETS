@@ -1,6 +1,6 @@
 # 🎰 Welcome to **CryptonBets** 🚀💰
 
-[![Deposit USDT Now](https://img.shields.io/badge/Deposit%20USDT%20Now-28a745?style=for-the-badge&logo=tether&logoColor=white)](https://cryptonbets.com/signup?promo_code=crypto777)
+[![Deposit USDT Now](https://img.shields.io/badge/Deposit%20USDT%20Now-28a745?style=for-the-badge&logo=tether&logoColor=white)](https://cryptonbets.com)
 
 ---
 
